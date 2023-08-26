@@ -32,7 +32,7 @@ Please note that this contract is intended for educational purposes and lacks es
 
 ## Getting Started
 
-To use this smart contract, you need access to an Ethereum development environment, such as [Remix](https://remix.ethereum.org/) or [Truffle](https://www.trufflesuite.com/truffle), to compile and deploy the contract. Follow the instructions provided in the "Getting Started" section of the README to compile and deploy the contract.
+To use this smart contract, you need access to an Ethereum development environment, such as [Remix](https://remix.ethereum.org/), to compile and deploy the contract. Follow the instructions provided in the "Getting Started" section of the README to compile and deploy the contract.
 
 ## Help
 
